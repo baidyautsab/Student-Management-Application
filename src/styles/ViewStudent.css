@@ -1,0 +1,36 @@
+.view-details {
+    height: 100vh;
+    background-image: url('/images/classroom.png');
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: overlay;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+}
+
+.view-details input {
+    height: 40px;
+    width: 465px;
+    background-color: transparent;
+    color: white;
+    font-size: 18px;
+    padding: 0px 10px;
+    border: none;
+    border-bottom: 2px solid white;
+    outline: none;
+}
+
+.card {
+    background-color: rgba(0, 0, 0, 0.666);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+.card-info p {
+    margin: 5px 0;
+}

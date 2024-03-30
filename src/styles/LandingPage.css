@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.landingpage{
+    height: 100vh;
+    background-image: url('/images/classroom.png');
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: overlay;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+}
+fieldset{
+    display: grid;
+    grid-template-columns: 170px 300px;
+    padding: 10px 10px;
+}
+label{
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+}
+input{
+    height: 40px;
+    background-color: transparent;
+    color: white;
+    font-size: 18px;
+    padding: 0px 10px;
+    border: none;
+    border-bottom: 2px solid white;
+    outline: none;
+}
+::-webkit-input-placeholder { /* For Chrome, Safari, and Opera */
+    color: white; /* Change to your desired color */
+}
+.submit{
+    margin-top: 12px;
+    height: 40px;
+    width: 495px;
+    font-size: 18px;
+    background-color: crimson;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+}

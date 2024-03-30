@@ -1,0 +1,31 @@
+{
+  "Student": [
+    {
+      "id": "9138",
+      "name": "Utsab Baidya",
+      "age": "24",
+      "roll": "195",
+      "regno": "16900120195",
+      "phone": "8343838660",
+      "email": "utsab.baidya.20@gmail.com"
+    },
+    {
+      "id": "99e3",
+      "name": "Biren Mouriya",
+      "age": "22",
+      "roll": "201",
+      "regno": "16900120201",
+      "phone": "6534868212",
+      "email": "biren2001@gmail.com"
+    },
+    {
+      "id": "7ed8",
+      "name": "Deepraj Sarkar",
+      "age": "24",
+      "roll": "125",
+      "regno": "16900200165",
+      "phone": "6599485485",
+      "email": "deep123@gmail.com"
+    }
+  ]
+}
