@@ -1,4 +1,4 @@
-#Student Management Application
+# Student Management Application
 
 This is a react application, where we can manupulate student data. We can add student, we can display student if user give the write information.
     The application start from the landing page, where a from is provided, which is connected to the json server.
